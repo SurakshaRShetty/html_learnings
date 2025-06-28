@@ -1,0 +1,50 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+
+/* p{
+  /* text-transform:uppercase; */
+  /* text-transform:capitalize; */
+  /* text-transform:lowercase; */
+  /* text-decoration:overline;
+   */
+   /* text-decoration:line-through; */
+   /* text-decoration:grey wavy overline; */
+ /* line-height:50px
+ 
+}
+h1{
+  text-align:center;
+} */
+
+
+
+
+header{
+  width:100%;
+  background-color:grey;
+  height:80px;
+}
+div{
+  height:100px;
+  width:150px;
+  background-color:blue;
+  margin:50px 100px;
+}
+.book{ height:200px;
+  width:150px;
+  background-color:orange;
+  margin:150px 100px
+}
+.book2{height:200px;
+  width:250px;
+  background-color:skyblue;
+  margin:150px 200px;
+}
+footer{
+  height:50px;
+  width:100%;
+  background-color:black;
+}
